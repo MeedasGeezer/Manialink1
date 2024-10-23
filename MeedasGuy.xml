@@ -14,6 +14,7 @@
     
     <music data="https://github.com/MadmanEpic/MadmanEpicManiaLinks/raw/refs/heads/main/asyouchoose.ogg" />
     -->
-    <label pos="0 100" z-index=0 size="160 40" text="MeedasGuy's Manialink" textcolor="f38122" halign="center" style="TextCongratsBig"/>
-    <label pos="0 -20" z-index=-10 size="200 100" text="Occupation: former jelly drift speedrunner" textcolor="fce0e3" halign="center" style="TextTips"/>
+    <label pos="0 100" z-index=0 size="160 40" text="MeedasGuys Manialink" textcolor="f38122" halign="center" style="TextCongratsBig" url="https://www.youtube.com/@MeedasGuy"/>
+    <label pos="0 -20" z-index=-10 size="200 100" text="Occupation: former jelly drift speedrunner" textcolor="fce0e3" halign="center" style="TextTips" url="https://www.speedrun.com/users/MeedasGuy"/>
+    <label pos="0 -60" z-index=-10 size="200 100" text="" textcolor="fce0e3" halign="center" style="TextTips"/>
 </manialink>
