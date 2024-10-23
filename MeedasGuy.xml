@@ -15,8 +15,12 @@
     <music data="https://github.com/MadmanEpic/MadmanEpicManiaLinks/raw/refs/heads/main/asyouchoose.ogg" />
     -->
     <quad pos="-160 90" z-index=-100 size="320 180" image="https://github.com/MeedasGeezer/Manialink1/raw/refs/heads/main/clevelandshow.png" />
-    <quad pos="110 70" z-index=-10 size="45 25" image="https://github.com/MeedasGeezer/Manialink1/raw/refs/heads/main/gothamchess.jpg" url="https://trackmania.exchange/mapsearch2?mode=1&amp;authorid=148065"/>
-    <label pos="133 57" z-index=-1 size="45 45" text="TM2020 Maps" textcolor="fce0e3" halign="center" style="TextTitle1" url="https://trackmania.exchange/mapsearch2?mode=1&amp;authorid=148065"/>
+    <quad pos="110 60" z-index=-10 size="45 25" image="https://github.com/MeedasGeezer/Manialink1/raw/refs/heads/main/gothamchess.jpg" url="https://trackmania.exchange/mapsearch2?mode=1&amp;authorid=148065"/>
+    <label pos="133 47" z-index=-1 size="45 45" text="TM2020 Maps" textcolor="fce0e3" halign="center" style="TextTitle1" url="https://trackmania.exchange/mapsearch2?mode=1&amp;authorid=148065"/>
+    <quad pos="110 20" z-index=-10 size="45 25" image="https://github.com/MeedasGeezer/Manialink1/raw/refs/heads/main/gothamchess.jpg" url="https://meedasguy.itch.io/"/>
+    <label pos="133 7" z-index=-1 size="45 45" text="itch.io" textcolor="fce0e3" halign="center" style="TextTitle1" url="https://meedasguy.itch.io/"/>
+    <quad pos="110 -20" z-index=-10 size="45 25" image="https://github.com/MeedasGeezer/Manialink1/raw/refs/heads/main/gothamchess.jpg" url="https://neonloop.itch.io/"/>
+    <label pos="133 -33" z-index=-1 size="45 25" text="I also worked on some of these games" textcolor="fce0e3" halign="center" style="TextTips" url="https://neonloop.itch.io/"/>
     <label pos="0 50" z-index=0 size="160 40" text="MeedasGuy's Manialink" textcolor="d3a422" halign="center" style="TextCongratsBig" url="https://www.youtube.com/@MeedasGuy"/>
     <label pos="0 49" z-index=-1 size="160 40" text="MeedasGuy's Manialink" textcolor="a37400" halign="center" style="TextCongratsBig" url="https://www.youtube.com/@MeedasGuy"/>
     <!--
